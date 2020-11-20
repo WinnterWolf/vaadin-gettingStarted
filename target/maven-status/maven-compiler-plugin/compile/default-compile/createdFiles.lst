@@ -1,0 +1,15 @@
+com/vaadin/tutorial/crm/backend/entity/AbstractEntity.class
+com/vaadin/tutorial/crm/backend/entity/Contact$Status.class
+com/vaadin/tutorial/crm/backend/service/ContactService.class
+com/vaadin/tutorial/crm/ui/ContactForm$DeleteEvent.class
+com/vaadin/tutorial/crm/backend/repository/ContactRepository.class
+com/vaadin/tutorial/crm/backend/entity/Contact.class
+com/vaadin/tutorial/crm/Application.class
+com/vaadin/tutorial/crm/ui/ContactForm$ContactFormEvent.class
+com/vaadin/tutorial/crm/ui/ContactForm$CloseEvent.class
+com/vaadin/tutorial/crm/backend/entity/Company.class
+com/vaadin/tutorial/crm/backend/repository/CompanyRepository.class
+com/vaadin/tutorial/crm/ui/ContactForm.class
+com/vaadin/tutorial/crm/ui/MainView.class
+com/vaadin/tutorial/crm/backend/service/CompanyService.class
+com/vaadin/tutorial/crm/ui/ContactForm$SaveEvent.class
